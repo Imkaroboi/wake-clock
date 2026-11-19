@@ -4,6 +4,7 @@ Keep your Mac and its display awake from the menu bar. Turn Keep Awake on indefi
 
 ## Downloads
 
+- [Download Wake Clock 1.5](https://github.com/Imkaroboi/wake-clock/releases/download/v1.5/Wake-Clock-1.5-macOS-arm64.zip) — includes the blue coffee cup app icon.
 - [Download Wake Clock 1.4](https://github.com/Imkaroboi/wake-clock/releases/download/v1.4/Wake-Clock-1.4-macOS-arm64.zip) — the menu bar cup fills blue while Keep Awake is on and returns to an outline when it turns off.
 - [Download Wake Clock 1.3](https://github.com/Imkaroboi/wake-clock/releases/download/v1.3/Wake-Clock-1.3-macOS-arm64.zip) — the Keep Awake switch turns blue while active.
 - [Download Wake Clock 1.2](https://github.com/Imkaroboi/wake-clock/releases/download/v1.2/Wake-Clock-1.2-macOS-arm64.zip) — the first version with an on/off switch.
